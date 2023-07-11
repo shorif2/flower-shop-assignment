@@ -303,3 +303,29 @@ footer {
     padding-top: 32px;
     padding-bottom: 128px;
 }
+/* extra section */
+.connect-us{
+    align-items: center;
+    text-align: center;
+    background: ;
+}
+.icons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.icon{
+    width: 50px;
+    gap: 30px;
+}
+.con-title{
+    padding-top: 128px;
+    font-size: 40px;
+font-weight: 800;
+}
+.con-des{
+    padding-top: 24px;
+    padding-bottom: 24px;
+    font-size: 18px;
+    font-weight: 400;
+}
