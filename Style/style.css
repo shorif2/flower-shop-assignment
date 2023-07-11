@@ -316,7 +316,8 @@ footer {
 }
 .icon{
     width: 50px;
-    gap: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 .con-title{
     padding-top: 128px;
@@ -329,3 +330,41 @@ font-weight: 800;
     font-size: 18px;
     font-weight: 400;
 }
+.delivery-man{
+align-items: center;
+justify-content: center;
+}
+
+.delivery {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 186px;
+}
+
+.delivery-man {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    border-radius: 8px;
+background: rgba(39, 39, 39, 0.05);
+    background-repeat: no-repeat;
+    width: 1440px;
+    gap: 300px;
+    text-align: center;
+}
+.dev-list{
+    display: flex;
+    flex-direction: row;
+}
+.padd{
+    padding-top: 86px;
+    padding-bottom: 86px;
+}
+/* .text{
+    font-size: 24px;
+font-weight: 600;
+padding-top: 24px;
+
+} */
